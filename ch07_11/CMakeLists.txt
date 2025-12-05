@@ -1,1 +1,2 @@
 add_subdirectory(problem01_getDate)
+add_subdirectory(problem02_deleteChar)
